@@ -1,0 +1,35 @@
+h1{
+    text-align:center;
+    text-decoration:black 5px underline;
+    /* text align not font align */
+    font-size:smaller;
+    height:400px;
+    width:100px;
+    border-style:solid;
+    border-color:black;
+}
+
+#red{
+    text-align:center;
+    /* how to move circle in center */
+    height:100px;
+    width:100px;
+    border-radius:50%;
+    background-color:red;
+}
+
+#yellow{
+    text-align:center;
+    height:100px;
+    width:100px;
+    background-color:yellow;
+    border-radius:50%;
+}
+
+#green{
+    text-align:center;
+    height:100px;
+    width:100px;
+    background-color:green;
+    border-radius:50%;
+}
